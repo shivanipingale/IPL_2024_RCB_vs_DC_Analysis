@@ -1,6 +1,6 @@
 # 🏏 IPL 2024 RCB vs DC - Data Analysis using Python Pandas  
 **About the Project**:
-This project analyze IPL 2024 match between RCB and DC using python (pandas, matplotlib). 
+This project analyze IPL 2024 match between RCB and DC using python (pandas, matplotlib).  
 **Team Performance (Batting, Bowling, Strike Rate, Economy Rate)**  
 **Player-wise Contribution**  
 **Wickets & Run Distribution**  

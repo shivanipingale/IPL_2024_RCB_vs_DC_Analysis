@@ -7,8 +7,8 @@ This project analyze IPL 2024 match between RCB and DC using python (pandas, mat
 **Match Insights & Key Moments**  
 
 # Technology Used
-**Python**
-**Pandas**
+**Python**  
+**Pandas**  
 **Matplotlib**
 
 ## Key Findings  

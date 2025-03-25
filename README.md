@@ -15,7 +15,7 @@ This project analyze IPL 2024 match between RCB and DC using python (pandas, mat
 - **Top Scorer**: AR Patel (57 Runs)
 - **Best Bowler**: Yash Dayal (4 Wickets) 
 - **Most Boundaries**: AR Patel  (3 6s, 5 4s)
-- **Winning Team**: RCB
+- **Teamwise Performance**
 
 ## Key Learning
 - Data Handling with Pandas. 
